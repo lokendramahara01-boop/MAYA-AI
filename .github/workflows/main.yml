@@ -21,7 +21,7 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
-            - name: Build APK
+      - name: Build APK
         working-directory: android
         run: |
           gradle wrapper
