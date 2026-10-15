@@ -1,0 +1,9 @@
+{
+  "name": "MAYA AI — Your Personal Voice Assistant",
+  "description": "Advanced Hindi, Hinglish and English Voice Assistant and Android Phone Controller with real speech recognition, actions launcher, and full Kotlin Jetpack Compose project source.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

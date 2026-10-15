@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAYA AI</string>
+    <string name="accessibility_description">Maya AI uses Accessibility service only when explicitly authorized to perform navigation gestures (Home, Back, Recent) and assist users with screen controls.</string>
+</resources>
